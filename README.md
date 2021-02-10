@@ -12,13 +12,13 @@ Note: Kali-linux & Parrot OS user must be use root terminal.
 * `apt upgrade -y` 
 * `apt install git -y`
 * `cd $HOME`
-* `git clone https://github.com/darknethaxor/haxor.git` 
-* `cd haxor` 
+* `git clonehttps://github.com/freelancerarafat/freefire` 
+* `cd freefire`` 
 * `chmod +x setup.sh` 
 * `bash setup.sh` 
 
 ## For Run : 
-* `haxor`
+* `freefire``
 
 ## Screenshot
 
